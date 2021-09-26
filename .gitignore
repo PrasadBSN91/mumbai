@@ -1,2 +1,5 @@
-*.hello
+*.html
 *.world
+*.hello
+*README.md
+*file1
